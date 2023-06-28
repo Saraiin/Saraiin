@@ -4,8 +4,8 @@
 
   </head>
   <body>
-      <h1 align="center" style="color:green ; font-size: 50px; font-family:cursive" >  Hi </h1>
-     <h1 align="center" style="color: rgb(205,92,92); font-size: 70px; font-family:cursive" >  I'm Sara :) </h1>
+      <h1 align="center" style="color:green ; font-size: 70px; font-family:cursive" >  Hi, I'm Sara :)   </h1>
+     <h1 align="center" style="color: rgb(205,92,92); font-size: 70px; font-family:cursive" >  </h1>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saraiin&label=Profile%20views&color=0e75b6&style=flat" alt="saraiin" /> </p>
 
