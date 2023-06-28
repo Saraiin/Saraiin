@@ -22,8 +22,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saraiin&show_icons=true&locale=en&layout=compact" alt="saraiin" /></p>
 <br>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/saraiinc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/saraiinc" /></a></p><br><br>
+ 
 
   </body> 
   </body>
