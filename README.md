@@ -40,9 +40,12 @@
 <div style="display: flex; justify-content: space-between;">
 <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"style="height:40px; width: 40px;"></div>
 <h4>Tools:</h4>
+<div style="display: flex; justify-content: space-between;">
 <img src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png"style="height:40px; width: 40px;">
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"style="height:40px; width: 40px;">
-<img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png"style="height:40px; width: 40px;">
+<img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png"style="height:40px; width: 40px;"></div>
+
+<h2>Reach me out on</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saraiin&show_icons=true&locale=en&layout=compact" alt="saraiin" /></p>
 <br>
 
