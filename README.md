@@ -8,6 +8,7 @@
      <h1 align="center" style="color: rgb(205,92,92); font-size: 70px; font-family:cursive" >  </h1>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saraiin&label=Profile%20views&color=0e75b6&style=flat" alt="saraiin" /> </p>
+<h2> A passionate software engineer with a strong focus on front-end development.</h2>
 
 <br>
 
@@ -37,7 +38,7 @@
 <img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png"style="height:40px; width: 40px;"></div>
 
 <h2>Reach me out on 📲:</h2>
-📬: saraa.ennaciri@gmail.com
+📬: saraa.ennaciri@gmail.com <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saraiin&show_icons=true&locale=en&layout=compact" alt="saraiin" /></p>
 <br>
 
