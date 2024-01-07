@@ -10,7 +10,7 @@
 <img src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv" style="margin-left: 100px; padding-left: 100px;"></p>
   
 
-<h2> A passionate software engineer with a strong focus on front-end development.</h2>
+<h2>     A passionate software engineer with a strong focus on front-end development.</h2>
 
 <br>
 
