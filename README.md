@@ -15,8 +15,8 @@
 <a href="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="yrsare" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"> Technologies and tools 🖥️:</h3>
-<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="height:40px; width: 40px;">
+<h2 align="left"> Technologies and tools 🖥️:</h2>
+<img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" style="height:40px; width: 40px;">
 <h4>Web Dev:</h4> 
 <div style="display: flex; justify-content: space-between;">
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="height:40px; width: 40px;">
