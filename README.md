@@ -19,9 +19,10 @@
 <h4>Web Dev:</h4> 
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="height:40px; width: 40px;">
 <h4>Version Control:</h4>
-<a><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"style="height:40px; width: 40px;"></a>
-<a><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"style="height:40px; width: 40px;"></a>
-<a><img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png"style="height:40px; width: 40px;"></a>
+<div style="display: flex; justify-content: space-between;">
+<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"style="height:40px; width: 40px;">
+<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"style="height:40px; width: 40px;">
+<img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png"style="height:40px; width: 40px;"></div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saraiin&show_icons=true&locale=en&layout=compact" alt="saraiin" /></p>
 <br>
