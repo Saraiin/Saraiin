@@ -36,7 +36,8 @@
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"style="height:40px; width: 40px;">
 <img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png"style="height:40px; width: 40px;"></div>
 
-<h2>Reach me out on</h2>
+<h2>Reach me out on 📲:</h2>
+📬: saraa.ennaciri@gmail.com
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saraiin&show_icons=true&locale=en&layout=compact" alt="saraiin" /></p>
 <br>
 
