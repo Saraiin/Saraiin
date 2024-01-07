@@ -12,10 +12,11 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yrsare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yrsare" height="30" width="40" /></a>
+<a href="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="yrsare" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> Technologies and tools 🖥️:</h3>
+<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="height:40px; width: 40px;">
 <h4>Web Dev:</h4> 
 <div style="display: flex; justify-content: space-between;">
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="height:40px; width: 40px;">
