@@ -5,7 +5,7 @@
   </head>
   <body>
       <h1 align="center" style="color:green ; font-size: 70px; font-family:cursive" >  Hi 🧚‍♀️, I'm Sara :)   </h1>
-     <h1 align="center" style="color: rgb(205,92,92); font-size: 70px; font-family:cursive" >  </h1>
+<img src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saraiin&label=Profile%20views&color=0e75b6&style=flat" alt="saraiin" /> </p>
 <h2> A passionate software engineer with a strong focus on front-end development.</h2>
