@@ -14,15 +14,15 @@
 
 <br>
 
-<p align="left">
+<p align="center">
 <a href="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="yrsare" height="30" width="40" /></a>
 </p>
 
 
-
+<p align="center">
 <h2>Reach me out on:</h2>
 📬: saraa.ennaciri@gmail.com <br>
-<br><br>
+<br><br> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saraiin&show_icons=true&locale=en&layout=compact" alt="saraiin" /></p>
 <br>
 
